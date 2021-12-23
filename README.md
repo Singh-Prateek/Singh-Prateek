@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on angular 
+- 🔭 I’m currently working on angular and dot net 6 and Azure. In past years worked on reactjs and aws cloud.
 
 <!--
 **Singh-Prateek/Singh-Prateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
